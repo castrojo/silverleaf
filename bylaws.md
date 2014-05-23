@@ -178,6 +178,7 @@ through such Co-owner to the Unit.
 
 Section 2. Procedures. Upon any such violation being alleged by the Board,
 the following procedures will be followed:
+
    (a)      Notice. Notice of the violation, including the Association Document
             provision violated, together with a description of the factual nature of
             the alleged offense set forth with such reasonable specifically as will
@@ -186,11 +187,13 @@ the following procedures will be followed:
             representative of said Co-owner at the address as shown in the
             notice required to be filed with the Association pursuant to Article VIII,
             Section 3.
+
    (b)      Oppurtunity to Defend. The offending Co-owner shall have an
             opportunity to appear before the Board and offer evidence in defense
             of the alleged violation. The appearance before the Board shall be at
             its next scheduled meeting but in no event shall the Co-owner be
             required to appear less than ten (10) days from the date of the Notice.
+
    (c)      Hearing and Decision. Upon appearance by the Co-owner before
             the Board and presentation of evidence of defense, or, in the event of
             the Co-owner's default, the Board shall, by majority vote of quorum of
